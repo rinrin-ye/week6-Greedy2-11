@@ -1,4 +1,4 @@
-							Greedy2-11 : 김선민, 이예린, 정윤아
+						Greedy2-11 : 김선민, 이예린, 정윤아
 # 부분 배낭 문제
 
 ------
@@ -7,7 +7,7 @@
 
  **배낭(Knapsack) 문제**는 조합 최적화 문제의 일종으로 용량이 정해진 배낭과 무게와 가치가 다른 n개의 물건의 집합이 주어졌을 때 최대의 가치를 갖도록 배낭에 넣을 물건들의 부분집합을 구하는 문제이다. 
 
-<img src="https://www.bing.com/images/blob?bcid=S310Y7YikaACTA" alt="배낭 문제" style="zoom: 67%;" />
+<img src="https://www.bing.com/images/blob?bcid=S310Y7YikaACTA" alt="배낭 문제" width="350" height="270" />
 
 
 
