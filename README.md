@@ -112,6 +112,4 @@ public class Knapsack {
 ## 5.  성능 평가
 
 이 알고리즘은 이중 for문을 이용 했기 때문에 시간 복잡도는 O(n^2)이며 이를 그래프로 나타내면 이와 같다.
-![n^2](https://github.com/kssssm/FractionalKanpsack/blob/master/스크린샷%202021-04-14%20오후%207.20.12.png)
-
-        
+![n^2](img width="1000" alt="graph" src="https://user-images.githubusercontent.com/81538527/114697087-6f01bd80-9d58-11eb-9309-f4ee90e55381.png")
