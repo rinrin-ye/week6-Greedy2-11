@@ -268,8 +268,8 @@ public class Knapsack {
 
 ## 5.  성능 평가
 
-- n개의 물건 각각의 단위 무게당 가치를 계산하는 데는 O(n) 시간이 걸린다. : Item내의 cost  계산
-- 물건의 단위 무게 당 가치에 대해서 내림차순으로 정렬하기 위해 O(n^2)  시간이 걸린다. (이중 for문을 이용했기 때문에) : SortItem
+- n개의 물건 각각의 단위 무게 당 가치를 계산하는 데는 O(n) 시간이 걸린다. : Item내의 cost  계산
+- 물건의 단위 무게 당 가치에 대해서 내림차순으로 정렬하기 위해 O(n^2) 시간이 걸린다. (이중 for문을 이용했기 때문에) : SortItem
 - while 루프의 수행은 n번을 넘지 않으며, 루프 내부의 수행은 O(1) 시간이 걸린다. : FractionalKnapsack내의 while 루프
 - if문의 코드는 각각 O(1) 시간이 걸리고 return도 O(1) 시간이 걸린다. :FractionalKnapsack내의 if문과 return
 
